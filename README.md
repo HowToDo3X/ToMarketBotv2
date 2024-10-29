@@ -41,10 +41,10 @@
 
 ## Installation
 
-You can download [**Repository**](https://github.com/FreddyWhest/ToMarketBot) by cloning it to your system and installing the necessary dependencies:
+You can download [**Repository**](https://github.com/HowToDo3X/ToMarketBotv2.git) by cloning it to your system and installing the necessary dependencies:
 
 ```shell
-~ >>> git clone https://github.com/FreddyWhest/ToMarketBot.git
+~ >>> git clone https://github.com/HowToDo3X/ToMarketBotv2.git
 ~ >>> cd ToMarketBot
 
 #Linux and MocOS
