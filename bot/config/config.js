@@ -95,7 +95,7 @@ const settings = {
     ? process.env.AUTO_COMPLETE_EMOJI_TASK.toLowerCase() === "true"
     : true,
 
-  CAN_CREATE_SESSION: false,
+  CAN_CREATE_SESSION: true,
 };
 
 module.exports = settings;
